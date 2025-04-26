@@ -1,6 +1,6 @@
 :warning: **Please don't submit bug reports for EDS book here. Instead please submit them to [the EDS book repo](https://github.com/alan-turing-institute/environmental-ds-book/issues)** :warning:
 
-# Reviews for EDS book notebooks
+# Notebooks Reviews for EDS book 
 
 This is the GitHub repository used to track the progress of reviews for EDS book notebooks. You can view the notebooks currently in review [here](https://github.com/eds-book/notebooks-reviews/issues).
 
